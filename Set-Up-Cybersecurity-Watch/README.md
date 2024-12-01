@@ -8,14 +8,14 @@ This project involved creating a tailored cybersecurity watch process to enhance
 
 1. Develop a cybersecurity watch to monitor threats and standards.
 2. Curate and analyse critical information specific to the company’s technologies.
-3. Deliver weekly reports with insights and actionable recommendations for the security team.
-4. Adapt to emerging threats by integrating breaking news and updated policies.
+3. Deliver a weekly report with insights and actionable recommendations for the security team.
+4. Adapt to emerging threats by integrating relevant news and updated policies.
 
 ## Technologies and Scope
 ### The cybersecurity watch focused on:
 
 - Windows Server 2019
-- Active Directory Domain Services
+- Windows Active Directory Domain Services
 - MOVEit File Transfer
 
 ## Deliverables 
