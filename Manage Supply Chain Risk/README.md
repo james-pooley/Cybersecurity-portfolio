@@ -41,3 +41,56 @@ Mid-to-long-term actions including:
 - API security audits.
 - Segmentation of network infrastructure to prevent lateral movement.
 
+## Methodology 
+
+1. Data Gathering:
+- Reviewed software documentation, security scans, and Monistax policies.
+2. Risk Evaluation: 
+- Assessed the likelihood and impact of various attack paths.
+3. Compliance Mapping:
+- Compared software capabilities against Monistax’s policies.
+4. Prioritisation:
+- Ranked risks by severity using a structured risk matrix.
+
+## Findings and Recommendations
+### Risk Matrix Summary 
+
+| Scenario                        | Likelihood | Impact   | Severity | Acceptance Level       |
+|---------------------------------|------------|----------|----------|------------------------|
+| Financial Fraud                 | High       | Critical | **12**   | **Unacceptable**       |
+| SQL Injection                   | High       | Serious  | **9**    | Tolerable under control|
+| Phishing                        | High       | Serious  | **9**    | Tolerable under control|
+| Weak Encryption                 | High       | Serious  | **9**    | Tolerable under control|
+| Outdated Software/No Backups    | Medium     | Serious  | **6**    | Tolerable under control|
+| Insider Threats                 | Medium     | Serious  | **6**    | Tolerable under control|
+
+### Immediate Recommendations
+1. <strong>MFA Implementation:</strong> Strengthen user authentication mechanisms.
+2. <strong>Encryption Standards:</strong> Ensure compliance with AES-256 and TLS 1.2+.
+3. <strong>Incident Response Plan:</strong> Develop and test robust response protocols.
+
+### Long-Term Recommendations
+- Regular software updates and backup protocols.
+- Segmentation of network infrastructure to limit lateral movement.
+
+## Compliance Gaps and Solutions
+### Key Gaps 
+- SQL injection vulnerabilities.
+- Inadequate encryption practices.
+- Missing documentation on logging and monitoring.
+
+### Proposed Actions
+- Implement parameterised queries to address SQL injection.
+- Conduct encryption audits and update practices.
+- Establish comprehensive logging and monitoring protocols.
+
+## Lessons Learned 
+1. The importance of proactive risk management in securing supply chains.
+2. Aligning third-party solutions with organisational security polocies.
+3. Continuous monitoring and updates to mitigate evolving risks.
+
+## Files in This Repository 
+### Reports 
+### Analysis 
+
+## Acknowledgments
