@@ -43,14 +43,10 @@ Mid-to-long-term actions including:
 
 ## Methodology 
 
-1. Data Gathering:
-- Reviewed software documentation, security scans, and Monistax policies.
-2. Risk Evaluation: 
-- Assessed the likelihood and impact of various attack paths.
-3. Compliance Mapping:
-- Compared software capabilities against Monistax’s policies.
-4. Prioritisation:
-- Ranked risks by severity using a structured risk matrix.
+1. <strong>Data Gathering:</strong> Reviewed software documentation, security scans, and Monistax policies.
+2. <strong>Risk Evaluation:</strong> Assessed the likelihood and impact of various attack paths.
+3. <strong>Compliance Mapping:</strong> Compared software capabilities against Monistax’s policies.
+4. <strong>Prioritisation:</strong> Ranked risks by severity using a structured risk matrix.
 
 ## Findings and Recommendations
 ### Risk Matrix Summary 
