@@ -19,7 +19,6 @@ The assessment identified critical vulnerabilities and compliance gaps, offering
 
 ### High-Risk Scenarios
 
-- <strong></strong>
 - <strong>Financial Fraud:</strong> Credential theft leading to unauthorised system access.
 - <strong>Data Breaches:</strong> Leakage of sensitive payment and personal infomation.
 - <strong>Incident Response Delays:</strong> Prolonged system exploitation due to slow response.
